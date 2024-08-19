@@ -1,0 +1,1 @@
+This is a directory for the  AirBnB clone - Web framework project that practicalize the use of flask.
